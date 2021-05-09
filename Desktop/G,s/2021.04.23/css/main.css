@@ -1,0 +1,135 @@
+body{
+    width: 960px;
+}
+.title_box{
+    background: url(../img/mainbg.png);
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title_box_sita{
+    background-color: teal;
+}
+.title_box_text{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;  
+}
+.title_box_title{
+    font-size: 48px;
+    color: aliceblue;
+}
+.title_box_texttext{
+    font-size: 36px;
+    color: aliceblue;
+}
+.second_title div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.second_text{
+    background-color: teal;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.about h2{
+    font-size: 24px;
+    color: yellow;
+}
+.title_box_text02{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.address{
+    display: flex;
+}
+.space120{
+    margin: 120px;
+}
+.space24{
+    margin: 24px;
+}
+.space64{
+    margin: 40px;
+}
+.space40{
+    margin: 64px
+    ;
+}
+.second_title_box{
+    justify-content:space-between;
+    align-items: center;   
+}
+.image_box img{
+width: 100%;
+}
+.three_title{
+    display: flex;
+}
+.four_tite div div{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    background-color: teal;
+}
+.four_tite{
+    display: flex;
+    justify-content: center;
+}
+
+.four_image div{
+    width: 100%;
+
+}
+
+.five_tile{
+    display: flex;
+    justify-content: center;
+}
+.six_tite{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.news_color{
+    color: yellow;
+}
+.title_box{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+}
+.seven_title{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+.address_top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.address{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.address_box{
+    display: flex;
+    background-color: teal;
+
+}
